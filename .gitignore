@@ -215,3 +215,18 @@ __pycache__/  # Already covered, but being explicit
 # Keep data directory but ignore contents (uncomment if you want to track empty directory)
 #data/*
 #!data/.gitkeep
+# Experiment / sweep scripts (not part of the graded submission)
+sweep_results.json
+bias_sweep.py
+efficient_init_test.py
+fast_init_test.py
+fast_novel_optimizer_test.py
+fast_spsa_test.py
+hparam_sweep.py
+init_strategies.py
+norm_ablation.py
+novel_optimizer.py
+quick_test_inits.py
+test_all_strategies.py
+zo_optimizer_spsa.py
+STEP_TRACE.md
